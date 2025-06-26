@@ -1,11 +1,11 @@
 # GIUSEMD BOT - IL MIGLIOR BOT WHATSAPP ITALIANO
-  ![GiuseMD](https://img.shields.io/badge/GiuseMD-Online-brightgreen?style=flat-square)  ![GitHub repo size](https://img.shields.io/github/repo-size/giuse1106/giusemd?color=blue&label=Repo%20Size)  ![Contributors](https://img.shields.io/github/contributors/giuse1106/giusemd?color=yellow)  ![GitHub stars](https://img.shields.io/github/stars/giuse1106/giusemd?tyle=social)  
+  ![GiuseMD](https://img.shields.io/badge/GiuseMD-Online-brightgreen?style=flat-square)  ![GitHub repo size](https://img.shields.io/github/repo-size/giugiu06/giusemd-v2?color=blue&label=Repo%20Size)  ![Contributors](https://img.shields.io/github/contributors/giugiu06-v2/giusemd?color=yellow)  ![GitHub stars](https://img.shields.io/github/stars/giugiu06/giusemd-v2?tyle=social)  
 
   
  ----------------------------------------------
  ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄` 
 
- - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/giuse1106/giusemd-v2/blob/master/config.js) 
+ - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/giugiu06/giusemd-v2/blob/master/config.js) 
 
 
 -----------------------------------------------
